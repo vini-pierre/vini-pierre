@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini_pierre/)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=vini-pierre&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vini-pierre&layout=compact&langs_count=7&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
