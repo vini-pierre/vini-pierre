@@ -1,7 +1,6 @@
-## Olá! Eu sou o Vinicius Pierre 🖐️
+## Olá! Eu sou o Vinicius Pierre 🤝
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
-[![Twitter](https://img.shields.io/badge/Twitter-FF0000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ViniPierrer)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ViniPierrer)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini_pierre/)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=vini-pierre&show_icons=true&theme=dracula&count_private=true)
